@@ -6,4 +6,4 @@ Apache Spark examples in Python:
   - Filter using UDF, regEx
   - Filter using timestamp
   - Write to Postgres
-  - aggregate using SQL-Partition-By / SQL-Partition-By
+  - aggregate using SQL-Group-By / SQL-Partition-By
